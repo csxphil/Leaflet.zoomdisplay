@@ -1,0 +1,21 @@
+{
+  "name": "leaflet.zoomdisplay",
+  "version": "1.0.0",
+  "description": "A simple leaflet plugin for displaying the current zoom level on the map",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csxphil/Leaflet.zoomdisplay.git"
+  },
+  "author": "azavea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csxphil/Leaflet.zoomdisplay/issues"
+  }
+}
